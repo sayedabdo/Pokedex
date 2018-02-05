@@ -49,6 +49,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		16465008202874CB003DFBBA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		16DB46F22027B331008BB942 = {
 			isa = PBXGroup;
 			children = (
@@ -70,6 +77,7 @@
 		16DB46FD2027B331008BB942 /* Pokedex */ = {
 			isa = PBXGroup;
 			children = (
+				16465008202874CB003DFBBA /* Model */,
 				16DB46FE2027B331008BB942 /* AppDelegate.swift */,
 				16DB47002027B331008BB942 /* ViewController.swift */,
 				16DB47022027B331008BB942 /* Main.storyboard */,
